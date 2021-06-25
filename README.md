@@ -26,7 +26,8 @@ Each user must give a nickname before they can use the application.
 The client and the server must communicate with each other, with the protocol of your choice.
 
 
-# COMMANDS
+COMMANDS
+----
 
 On the client side, each user should be able to do the following actions (using the specified command inchat, and using the interface):
 * **/nicknickname**: define the nickname of the user on the server.
